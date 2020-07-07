@@ -1,2 +1,4 @@
 # Cat_Dog_CNN
-This repository contains a CNN trained to differentiate a dog vs cat image with 92% accuracy
+This file contains a CNN model trained to differentiate a dog vs cat image with 92% accuracy
+# CIFAR-10
+This file contains a CNN model trained on the keras CIFAR-10 dataset
